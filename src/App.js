@@ -4,7 +4,7 @@ import {
   Route,
   NavLink,
 } from 'react-router-dom'
-import Card from './components/shared/Card'
+//import Card from './components/shared/Card'
 import './index.css'
 import FeedbackList from './components/FeedbackList'
 import Header from './components/Header'
